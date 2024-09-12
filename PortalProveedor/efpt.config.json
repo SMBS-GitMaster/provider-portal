@@ -1,0 +1,117 @@
+﻿{
+   "CodeGenerationMode": 2,
+   "ContextClassName": "PortalProveedorContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": "Database",
+   "OutputPath": "Entities",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "PortalProveedor",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[Albaran]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Ceco]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[CecoSociedad]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Cliente]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[EstadoFactura]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[EstadoProyecto]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[EstadoUsuario]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Factura]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[FacturaEstadoFactura]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Fichero]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Log]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[LoginProveedor]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[LoginProveedorSociedad]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Proveedor]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Proyecto]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Rol]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[RolSociedadUsuario]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Sociedad]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TipoIdentificador]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Usuario]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoConstructor": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false,
+   "UseT4": false
+}
